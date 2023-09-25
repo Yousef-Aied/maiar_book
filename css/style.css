@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(90, 168, 183 ,.7), rgba(90, 167, 183 ,.7)), url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.nav-item{
+    margin: 0 15px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.navbar{
+    /* border-bottom: solid 4px #5aa8b7; */
+    box-shadow: 0 3px 10px rgb(75, 74, 74);
+}
+#authors img{
+    margin-top: -70px;
+}
